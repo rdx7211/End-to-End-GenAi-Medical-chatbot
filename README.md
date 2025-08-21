@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/rdx7211/End-to-End-GenAi-Medical-chatbot.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
