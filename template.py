@@ -33,3 +33,28 @@ for filepath in list_of_files:
 
     else:
         logging.info(f"{filename} is already exists")
+
+
+
+#you u can use also bash commands to create the directory and files
+
+# for instance
+
+# code for bash one 
+
+# # Creating directory 
+# mkdir -p src
+# mkdir -p research 
+
+# # Creating files
+# touch src/__init__.py
+# touch src/helper.py 
+# touch src/prompt.py
+# touch .env 
+# touch setup.py
+# touch app.py
+# touch research/trials.ipynb 
+# touch requirements.txt
+
+
+# echo "Directory and files created successfully!."
