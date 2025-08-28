@@ -1,6 +1,6 @@
 # Medical-Chatbot-Project
 
-https://github.com/user-attachments/assets/6c37dcfe-a3ad-46de-bde8-58b9780f2e8e
+https://github.com/user-attachments/assets/9c48f42c-d424-4acd-9a3c-8baf5fa0f73d
 
 # How to run?
 ### STEPS:
